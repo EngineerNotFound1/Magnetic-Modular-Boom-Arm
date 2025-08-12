@@ -34,7 +34,7 @@
 
 For questions, collaboration, or feedback, feel free to reach out:
 
-- **Email:** farukylmz0550@gmail.com
+- **Email:** [contact.frkylmz@gmail.com](mailto:contact.frkylmz@gmail.com)
 
 ---
 
