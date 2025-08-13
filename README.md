@@ -24,9 +24,9 @@
 
 ## BOM List
 
- 1. Original MagSafe Charger or equivalent x 1
- 2. 3D printed part (magnetic_modular_boom_arm_core.stl)
- 3. 502 Glue
+- I. Original MagSafe Charger or equivalent x 1
+- II. 3D printed part (magnetic_modular_boom_arm_core.stl) x1
+- III. 502 Glue x1
 
 ---
 
